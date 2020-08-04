@@ -8,6 +8,6 @@ RUN cd bandwidth-hero-proxy && npm install
 
 RUN mkdir /app/
 
-COPY bandwidth-hero-proxy/ /app/
+COPY /bandwidth-hero-proxy/ /app/
 
 ENTRYPOINT ["node", "/app/server.js"]
