@@ -1,6 +1,6 @@
 FROM node:8
 
-EXPOSE 8000
+EXPOSE 8080
 
 RUN mkdir /app/
 
