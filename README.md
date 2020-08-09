@@ -1,6 +1,6 @@
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tessypowder/bandwidth-hero?style=flat-square)
-![Docker Pulls](https://img.shields.io/docker/pulls/tessypowder/bandwidth-hero?style=flat-square)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/tessypowder/bandwidth-hero/latest?style=flat-square)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tessypowder/bandwidth-hero?style=flat-square)](https://hub.docker.com/repository/docker/tessypowder/bandwidth-hero)
+[![Docker Pulls](https://img.shields.io/docker/pulls/tessypowder/bandwidth-hero?style=flat-square)](https://hub.docker.com/repository/docker/tessypowder/bandwidth-hero)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/tessypowder/bandwidth-hero/latest?style=flat-square)](https://hub.docker.com/repository/docker/tessypowder/bandwidth-hero)
 
 # Bandwidth Hero Docker
 A docker image for the [Bandwidth Hero Proxy](https://github.com/ayastreb/bandwidth-hero-proxy).
